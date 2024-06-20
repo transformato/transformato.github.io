@@ -1,0 +1,34 @@
+{
+	"class": "FeaturedBannersView",
+	"itemSize": "{296, 148}",
+	"itemCornerRadius": 10,
+	"banners": [
+		{
+			"url": "https://github.com/Nef0pam/Nef0pam.github.io/blob/master/depictions/web/me.nef0pam.dleasy/screenshots/DLEasy.png?raw=true",
+			"title": "DLEasy",
+			"package": "me.nef0pam.dleasy",
+			"hideShadow": false
+		},
+		{
+			"url": "https://github.com/Nef0pam/Nef0pam.github.io/blob/master/depictions/web/com.nef0pam.autoscroll/screenshots/AutoScroll.png?raw=true",
+			"title": "AutoScroll",
+			"package": "com.nef0pam.autoscroll",
+			"hideShadow": false
+		},
+		{
+			"url": "https://github.com/Nef0pam/Nef0pam.github.io/blob/master/depictions/web/com.nef0pam.a-font/screenshots/A-Font.png?raw=true",
+			"title": "A-Font",
+			"package": "com.nef0pam.a-font",
+			"hideShadow": false
+		},
+		{
+			"url": "https://github.com/Nef0pam/Nef0pam.github.io/blob/master/depictions/web/com.nef0pam.visionkeysaurora/screenshots/VisionKeys%20Aurora.png?raw=true",
+			"title": "VisionKeys Aurora",
+			"package": "com.nef0pam.visionkeysaurora",
+			"hideShadow": false
+		}
+
+
+	]
+
+}
